@@ -7,4 +7,7 @@ int main() {
   cout << "i";
   }
   return 0;
+
+  //fuck this shit im out
+  //suck my dick
 }
